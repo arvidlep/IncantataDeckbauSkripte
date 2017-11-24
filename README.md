@@ -25,7 +25,7 @@ Dazu werden Kommentare und Whitespaces entfernt.
 
 *Anwendung*:
 ```
-$ ./icdeckToCSV in.icdeck out.csv
+$ ./icdeckToCSV.sh in.icdeck out.csv
 ```
 
 ### csvToNumbers.py ###
