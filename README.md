@@ -1,5 +1,10 @@
 # Incantata Deckbau Tools #
 
+## Disclaimer ##
+
+Ich bin zu diesem Zeitpunkt weder mit der bash noch mit python besonders gut vertraut, also ist der Code wahrscheinlich nicht sonderlich elegant (sei es mir verziehen).
+Man betrachte diesen Code also bitte nicht als Demonstration meiner Programmierkünste, sondern als (hoffentlich) nützliches Geschenk.
+
 ## Die Skripte ##
 
 ### countcards.sh ###
@@ -10,7 +15,7 @@ Anm.: Sobald die Kartennummern über 100 steigen muss die regex erweitert werden
 
 *Anwendung*:
 ```
-$ ./countcards.sh $deck
+$ ./countcards.sh deck
 ```
 
 ### icdeckToCSV.sh ###
@@ -20,7 +25,7 @@ Dazu werden Kommentare und Whitespaces entfernt.
 
 *Anwendung*:
 ```
-$ ./icdeckToCSV $in.icdeck $out.csv
+$ ./icdeckToCSV in.icdeck out.csv
 ```
 
 ### csvToNumbers.py ###
