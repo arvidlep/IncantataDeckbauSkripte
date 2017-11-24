@@ -11,7 +11,6 @@ Man betrachte diesen Code also bitte nicht als Demonstration meiner Programmierk
 
 Zählt alle für die Deckgröße relevanten Karten und gibt die Summe zurück.
 Nicht gezählt werden Himmelskörper und Raumzeitgefüge.
-Anm.: Sobald die Kartennummern über 100 steigen muss die regex erweitert werden...
 
 *Anwendung*:
 ```
