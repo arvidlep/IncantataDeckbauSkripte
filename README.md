@@ -9,7 +9,9 @@ Nicht gezählt werden Himmelskörper und Raumzeitgefüge.
 Anm.: Sobald die Kartennummern über 100 steigen muss die regex erweitert werden...
 
 *Anwendung*:
-    $ ./countcards.sh $deck
+```
+$ ./countcards.sh $deck
+```
 
 ### icdeckToCSV.sh ###
 
@@ -17,14 +19,18 @@ Macht eine icdeck Datei zu einer CSV Datei.
 Dazu werden Kommentare und Whitespaces entfernt.
 
 *Anwendung*:
-    $ ./icdeckToCSV $in.icdeck $out.csv
+```
+$ ./icdeckToCSV $in.icdeck $out.csv
+```
 
 ### csvToNumbers.py ###
 
 Nimmt eine CSV an und gibt zeilenweise fertige Drucklinks aus.
 
 *Anwendung*:
-    $ python csvToNumbers.py deck.csv
+```
+$ python csvToNumbers.py deck.csv
+```
 
 ## Wie mache ich ein neues Deck? ##
 
@@ -47,4 +53,4 @@ Beispielsweise will ich 1 Mantra der Reinheit (Nr. 1) und 6 Weiten (Nr. 9) im De
 
 ## Was bitte ist Incantata!? ##
 
-Das wird hier demnächst stehen (spätestens zu Weihnachten)
+Das wird hier demnächst stehen (spätestens zu Weihnachten).
