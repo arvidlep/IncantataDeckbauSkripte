@@ -47,8 +47,9 @@ Mit einem // kann ein Kommentar eingeleitet werden. Alles nach dem // wird ignor
 
 Beispielsweise will ich 1 Mantra der Reinheit (Nr. 1) und 6 Weiten (Nr. 9) im Deck haben, also schreibe ich:
 ```
+//Ein sehr schönes Deck
 1;1
-9;6
+9;6 //Länder kann man nie genug haben
 ```
 
 ## Was noch verbessert werden könnte ##
