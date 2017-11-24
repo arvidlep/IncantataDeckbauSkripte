@@ -59,4 +59,4 @@ Beispielsweise will ich 1 Mantra der Reinheit (Nr. 1) und 6 Weiten (Nr. 9) im De
 
 ## Was bitte ist Incantata!? ##
 
-Das wird hier demnächst stehen (spätestens zu Weihnachten).
+Das wird hier demnächst stehen (sobald ich es selbst weiß).
